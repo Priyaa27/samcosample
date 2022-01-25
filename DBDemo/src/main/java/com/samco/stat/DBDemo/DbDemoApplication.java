@@ -33,6 +33,7 @@ public class DbDemoApplication implements CommandLineRunner {
 	        if (result > 0) {
 	            System.out.println("A new row has been inserted.");
 	        	System.out.println("Checking for git....");
+			System.out.println("checking for pull.....");
 		}
 		
 	}
