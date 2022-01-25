@@ -32,6 +32,7 @@ public class DbDemoApplication implements CommandLineRunner {
          
 	        if (result > 0) {
 	            System.out.println("A new row has been inserted.");
+		    System.out.println("creating tag v1.0...");
 	        }
 		
 	}
