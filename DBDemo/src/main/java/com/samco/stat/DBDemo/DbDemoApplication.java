@@ -34,6 +34,7 @@ public class DbDemoApplication implements CommandLineRunner {
 	            System.out.println("A new row has been inserted.");
 	        	System.out.println("Checking for git....");
 			System.out.println("checking for pull*****.....");
+			System.out.println("added for fetch check");
 		}
 		
 	}
